@@ -1,0 +1,24 @@
+Stage 1/5: ASCII Lands welcome you, Stranger!
+Description
+You've met a very polite cow that welcomes you to the ASCII lands. There is nothing there, except you and the cow. It seems that the cow really wants to win the spot in the program output.
+
+Objectives
+To start with, develop a simple program that outputs the ASCII picture of the cow line-by-line, as shown in the example. Make sure all the lines you print have the same length and are formatted with whitespaces. For example, the 4th output line is (whitespaces are replaced with dots for better visibility)
+
+............^__^.../........
+
+Not
+
+............^__^.../
+
+Example
+Example 1:
+
+                    _______
+                   < hello >
+                    -------
+            ^__^   /
+    _______/(oo)  /
+/\/(       /(__)
+   | w----||
+   ||     ||

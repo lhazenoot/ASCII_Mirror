@@ -1,0 +1,53 @@
+Stage 3/5: New friends
+Description
+You're about to visit different text-file homes and meet many new ASCII friends. It's time to throw a little party in the console.
+
+Objectives
+In this stage, make your program read files. If users inputted a file path that does not exist, print out the error with the File not found substring. Otherwise, print out the file content line-by-line.
+
+No need to format the content of the files with whitespace; output files with lines as they are in the file.
+
+For your convenience, there is a .txt example file in the attachments.
+
+Examples
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+
+File hierarchy:
+
+ASCII_Animals/
+├── MooFolder/
+│   ├── Cow.txt
+├── MeowFolder/
+├── HumphFolder/
+│   ├── Camel.txt
+Example 1:
+
+Input the file path:
+> C:\ASCII_Animals\MooFolder\Cow.txt
+            ^__^
+    _______/(oo)
+/\/(       /(__)
+   | w----||
+   ||     ||
+Example 2:
+
+Input the file path:
+> C:\ASCII_Animals\HumphFolder\Camel.txt
+   //
+ _oo\
+(__/ \  _  _
+   \  \/ \/ \
+   (         )\
+    \_______/  \
+     [[] [[]
+     [[] [[]
+Example 3:
+
+Input the file path:
+> C:\ASCII_Animals\MeowFolder\Cat.txt
+File not found!
+Example 4:
+
+Input the file path:
+> C:\ASCII_Animals\MooFolder
+File not found!

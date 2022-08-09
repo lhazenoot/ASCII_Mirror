@@ -1,0 +1,30 @@
+Stage 2/5: ASCII homes
+Description
+ASCII animals live in their little ASCII text-file homes. You ask the cow about its home, and the cow for some reason repeats the message after you. Maybe it does it just to mock you, who knows.
+
+Objectives
+Expand your program so that it requests the file path with the file path substring. In this stage, the cow must repeat everything after users, so when they input a string, your program should print out the same string as the first line;
+After the reply, print the cow picture as in the example section (16 characters wide). As you remember from the first stage, the lines on the picture should have the same length and are formatted with whitespaces.
+Examples
+The greater-than symbol followed by a space (> ) represents the user input. Note that it's not part of the input.
+
+Example 1:
+
+Input the file path:
+> C:\Users\ASCII_Cow\MooFolder\MooFile.txt
+C:\Users\ASCII_Cow\MooFolder\MooFile.txt
+            ^__^
+    _______/(oo)
+/\/(       /(__)
+   | w----||
+   ||     ||
+Example 2:
+
+Input the file path:
+> This is not a file path. Moo :)
+This is not a file path. Moo :)
+            ^__^
+    _______/(oo)
+/\/(       /(__)
+   | w----||
+   ||     ||
